@@ -178,6 +178,6 @@ awards:
   - title: Honorable Mention to Masters’ Dissertation
     #url: https://www.internetsociety.org/past-ngl-programs/past-fellowship-to-ietf/fellows/
     #certificate_url: https://www.datacamp.com
-    date: '2019-11-11'
+    date: '2019-11-13'
     awarder: Brazilian Congress of Informatics in Education
 ---
