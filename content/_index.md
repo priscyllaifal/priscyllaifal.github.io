@@ -45,7 +45,7 @@ sections:
       title: 'Hello 👋'
       subtitle: ''
       text: |-
-        Hello, I’m Priscylla Silva, a Ph.D. student in Explainable Artificial Intelligence (XAI) at the University of São Paulo (Brazil), advised by [Prof. Luis Gustavo Nonato](https://scholar.google.com/citations?user=p2tLSUsAAAAJ&hl=en). My research focuses on developing tools and techniques that improve AI interpretability, allowing for more transparent and reliable decision-making in a variety of domains.
+        I’m Priscylla Silva, a Ph.D. student in Explainable Artificial Intelligence (XAI) at the University of São Paulo (Brazil), advised by [Prof. Luis Gustavo Nonato](https://scholar.google.com/citations?user=p2tLSUsAAAAJ&hl=en). My research focuses on developing tools and techniques that improve AI interpretability, allowing for more transparent and reliable decision-making in a variety of domains.
 
         I spent a year as a visiting scholar at the [Visualization and Data Analytics Research Center (VIDA)](https://vida.engineering.nyu.edu/) at New York University (NYU), where I worked under the guidance of [Prof. Claudio Silva](https://ctsilva.github.io/).
 
