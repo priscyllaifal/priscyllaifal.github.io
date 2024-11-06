@@ -3,7 +3,7 @@
 title: Priscylla Silva
 
 # Name pronunciation (optional)
-name_pronunciation: Priscylla Silva
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Priscylla

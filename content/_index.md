@@ -16,66 +16,70 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filename: prospect_park.jpg
           filters:
             brightness: 0.4
           size: cover
           position: center
           parallax: false
-  - block: stats
-    content:
-      items:
-        - statistic: "15"
-          description: |
-            Publications
-        - statistic: "1,000+"
-          description: |
-            Citations
-        - statistic: "78"
-          description: |
-            h-index
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+  #- block: stats
+  #  content:
+  #    items:
+  #      - statistic: "15"
+  #        description: |
+  #          Publications
+  #      - statistic: "1,000+"
+  #        description: |
+  #          Citations
+  #      - statistic: "78"
+  #        description: |
+  #          h-index
+  #  design:
+  #    # Section background color (CSS class)
+  #    css_class: "bg-gray-100 dark:bg-gray-900"
+  #    # Reduce spacing
+  #    spacing:
+  #      padding: [0, 0, 0, 0]
   - block: markdown
     content:
-      title: 'Welcome 👋'
+      title: 'Hello 👋'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Hello, I’m Priscylla Silva, a Ph.D. student in Explainable Artificial Intelligence (XAI) at the University of São Paulo (Brazil), advised by [Prof. Luis Gustavo Nonato](https://scholar.google.com/citations?user=p2tLSUsAAAAJ&hl=en). My research focuses on developing tools and techniques that improve AI interpretability, allowing for more transparent and reliable decision-making in a variety of domains.
 
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+        I spent a year as a visiting scholar at the [Visualization and Data Analytics Research Center (VIDA)](https://vida.engineering.nyu.edu/) at New York University (NYU), where I worked under the guidance of [Prof. Claudio Silva](https://ctsilva.github.io/).
+
+        My research journey began with a strong foundation in Artificial Intelligence in Education during my Master’s degree at the Federal University of Campina Grande (Brazil). Under the mentorship of Prof. Joseana Macêdo Fechine and Prof. Evandro de Barros Costa, I developed an Intelligent Tutoring System with automatic feedback designed to support students in introductory computer science (CS1) courses.
+
+        In my undergraduate studies at the Federal University of Alagoas (Brazil), I collaborated as a developer on two intelligent tutoring systems focused on Mathematics and Propositional Logic. These experiences cultivated my passion for creating AI systems that not only process data but also actively contribute to human learning and understanding.
     design:
       columns: '1'
-  - block: collection
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+  #- block: collection
+  #  content:
+  #    title: Recent News
+  #    subtitle: ''
+  #    text: ''
+  #    # Page type to display. E.g. post, talk, publication...
+  #    page_type: post
+  #    # Choose how many pages you would like to display (0 = all pages)
+  #    count: 5
+  #    # Filter on criteria
+  #    filters:
+  #      author: ""
+  #      category: ""
+  #      tag: ""
+  #      exclude_featured: false
+  #      exclude_future: false
+  #      exclude_past: false
+  #      publication_type: ""
+  #    # Choose how many pages you would like to offset by
+  #    offset: 0
+  #    # Page order: descending (desc) or ascending (asc) date.
+  #    order: desc
+  #  design:
+  #    # Choose a layout view
+  #    view: date-title-summary
+  #    # Reduce spacing
+  #    spacing:
+  #      padding: [0, 0, 0, 0]
 ---
