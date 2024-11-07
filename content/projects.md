@@ -20,8 +20,8 @@ sections:
           image: panda.png
           url: https://www.priscyllasilva.com.br/
         - title: Outline-Graph
-          description: Simplify Curriculum Design with Interactive Knowledge Graphs.
-          image: robot.png
+          description: A tool to simplify Curriculum Design with Interactive Knowledge Graphs.
+          image: authoring-tool.webp
           url: https://www.priscyllasilva.com.br/
         #- title: PyTorch
         #  description: PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
