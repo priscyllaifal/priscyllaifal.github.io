@@ -1,7 +1,7 @@
 ---
 title: 'Experience'
 date: 2023-10-24
-type: landing
+type: false
 
 design:
   spacing: '5rem'
