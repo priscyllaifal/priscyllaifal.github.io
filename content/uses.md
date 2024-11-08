@@ -19,3 +19,24 @@ I often get asked about what software or hardware I use, so this page will serve
 ## Desktop Apps
 
 - Better Touch Tool for window management and custom keyboard shortcuts
+
+## My Projects
+sections:
+  - block: resume-projects
+    content:
+      title: Selected Projects
+      text: 
+      # Upload project images to your `assets/media/` folder and reference the filename in the `image` option
+      items:
+        - title: Marvin
+          description: Feedback in educational environments in the programming domain.
+          image: marvin.jpg
+          url: https://www.priscyllasilva.com.br/
+        - title: Outline-Graph
+          description: A tool to simplify Curriculum Design with Interactive Knowledge Graphs.
+          image: authoring-tool.webp
+          url: https://www.priscyllasilva.com.br/
+        #- title: PyTorch
+        #  description: PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+        #  image: nlp.png
+        #  url: https://github.com/pytorch/pytorch
