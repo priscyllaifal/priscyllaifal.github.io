@@ -46,7 +46,7 @@ featured: true
 url_pdf: 'https://proceedings.mlr.press/v257/silva24a.html'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-#url_poster: ''
+url_poster: 'https://www.priscyllasilva.com.br/publication/ai4ed-aaai-2024/poster.pdf'
 #url_project: ''
 #url_slides: ''
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
