@@ -65,7 +65,7 @@ I often get asked about what software or hardware I use, so this page will serve
 
     .project img {
       width: 100%;
-      height: 25%;
+      height: 30%;
       margin-bottom: 1px;
     }
 
