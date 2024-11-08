@@ -86,7 +86,7 @@ pager: false
 <div class="container">
     <div class="projects">
       <div class="project">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas Logo">
+        ![screen reader text](nlp.png "caption")
         <h3><a href="#">Marvin</a></h3>
         <p>Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.</p>
       </div>
