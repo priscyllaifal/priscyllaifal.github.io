@@ -102,7 +102,6 @@ I often get asked about what software or hardware I use, so this page will serve
 <div class="container">
     <h1>Selected Projects</h1>
     <p class="description">I enjoy making things. Here are a selection of projects that I have worked on over the years.</p>
-    
     <div class="projects">
       <div class="project">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas Logo">
@@ -111,16 +110,14 @@ I often get asked about what software or hardware I use, so this page will serve
         <p>Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.</p>
         <p class="date">Oct 26, 2023</p>
       </div>
-      
-      <div class="project">
+    <div class="project">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/PyTorch_logo_icon.svg" alt="PyTorch Logo">
         <span class="tag">HUGO</span>
         <h3><a href="#">PyTorch</a></h3>
         <p>PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.</p>
         <p class="date">Oct 26, 2023</p>
       </div>
-      
-      <div class="project">
+    <div class="project">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn Logo">
         <span class="tag">HUGO</span>
         <h3><a href="#">scikit-learn</a></h3>
