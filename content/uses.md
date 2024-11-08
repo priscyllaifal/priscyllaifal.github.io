@@ -43,13 +43,13 @@ pager: false
       background-color: #fff;
       border-radius: 8px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      padding: 5px;
+      padding: 10px;
       text-align: center;
     }
 
     .project img {
       width: 100%;
-      height: 50%;
+      height: 35%;
       margin-bottom: 10px;
     }
 
@@ -87,7 +87,7 @@ pager: false
     <div class="projects">
       <div class="project">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas Logo">
-        <h3><a href="#">Pandas</a></h3>
+        <h3><a href="#">Marvin</a></h3>
         <p>Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.</p>
       </div>
     <div class="project">
