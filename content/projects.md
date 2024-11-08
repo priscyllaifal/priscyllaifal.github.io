@@ -17,11 +17,11 @@ sections:
       items:
         - title: Marvin
           description: Feedback in educational environments in the programming domain.
-          image: marvin.jpg
+          image: visagreement.png
           url: https://www.priscyllasilva.com.br/
         - title: Outline-Graph
           description: A tool to simplify Curriculum Design with Interactive Knowledge Graphs.
-          image: authoring-tool.webp
+          image: explainalytics.png
           url: https://www.priscyllasilva.com.br/
         #- title: PyTorch
         #  description: PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.

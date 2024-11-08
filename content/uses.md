@@ -86,19 +86,34 @@ pager: false
 <div class="container">
     <div class="projects">
       <div class="project">
-        ![screen reader text](nlp.png "caption")
+       <img src="https://priscyllaifal.github.io/media/marvin_huc60dd2b67f24d30657ed79914faf3af2_32122_100x100_fill_q80_h2_lanczos_center.webp" alt="Logo">
         <h3><a href="#">Marvin</a></h3>
-        <p>Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.</p>
+        <p>Feedback in educational environments in the programming domain.</p>
       </div>
     <div class="project">
-        <img src="https://priscyllaifal.github.io/media/marvin_huc60dd2b67f24d30657ed79914faf3af2_32122_100x100_fill_q80_h2_lanczos_center.webp" alt="PyTorch Logo">
-        <h3><a href="#">PyTorch</a></h3>
-        <p>PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.</p>
+        <h3><a href="#">Outline-Graph</a></h3>
+        <p>A tool to simplify Curriculum Design with Interactive Knowledge Graphs.</p>
       </div>
     <div class="project">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn Logo">
         <h3><a href="#">scikit-learn</a></h3>
         <p>scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.</p>
+      </div>
+    </div>
+</div>
+
+### Education
+
+<div class="container">
+    <div class="projects">
+      <div class="project">
+       <img src="https://priscyllaifal.github.io/media/marvin_huc60dd2b67f24d30657ed79914faf3af2_32122_100x100_fill_q80_h2_lanczos_center.webp" alt="Logo">
+        <h3><a href="#">Marvin</a></h3>
+        <p>Feedback in educational environments in the programming domain.</p>
+      </div>
+      <div class="project">
+        <h3><a href="#">Outline-Graph</a></h3>
+        <p>A tool to simplify Curriculum Design with Interactive Knowledge Graphs.</p>
       </div>
     </div>
 </div>
