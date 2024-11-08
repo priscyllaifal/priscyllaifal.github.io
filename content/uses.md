@@ -10,13 +10,13 @@ Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's 
 
 I often get asked about what software or hardware I use, so this page will serve as a living document and a place to point curious readers to when I get asked.
 
-## Editor + Terminal + LARG
+## Editor + Terminal + we
 
 - [Visual Studio Code](https://code.visualstudio.com/) is my current editor
 - Chrome is my main browser
 - iTerm2 is my terminal
 
-## Desktop Apps + MEUD
+## Desktop Apps + are
 
 - Better Touch Tool for window management and custom keyboard shortcuts
 
@@ -65,8 +65,8 @@ I often get asked about what software or hardware I use, so this page will serve
 
     .project img {
       width: 100%;
-      height: 50%;
-      margin-bottom: 5px;
+      height: 20%;
+      margin-bottom: 1px;
     }
 
     .project h3 {
