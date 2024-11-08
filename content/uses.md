@@ -34,7 +34,7 @@ pager: false
 
     .projects {
       display: flex;
-      justify-content: space-between;
+      justify-content: start;
       gap: 20px;
     }
 
@@ -91,6 +91,7 @@ pager: false
         <p>Feedback in educational environments in the programming domain.</p>
       </div>
     <div class="project">
+        <img src="https://priscyllaifal.github.io/media/marvin_huc60dd2b67f24d30657ed79914faf3af2_32122_100x100_fill_q80_h2_lanczos_center.webp" alt="Logo">
         <h3><a href="#">Outline-Graph</a></h3>
         <p>A tool to simplify Curriculum Design with Interactive Knowledge Graphs.</p>
       </div>

@@ -23,8 +23,8 @@ sections:
           description: A tool to simplify Curriculum Design with Interactive Knowledge Graphs.
           image: explainalytics.png
           url: https://www.priscyllasilva.com.br/
-        #- title: PyTorch
-        #  description: PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
-        #  image: nlp.png
-        #  url: https://github.com/pytorch/pytorch
+        - title: PyTorch
+          description: PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+          image: authoring-tool.webp
+          url: https://github.com/pytorch/pytorch
 ---
