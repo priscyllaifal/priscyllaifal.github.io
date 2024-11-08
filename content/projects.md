@@ -86,19 +86,14 @@ pager: false
 <div class="container">
     <div class="projects">
       <div class="project">
-       <img src="https://priscyllaifal.github.io/media/marvin_huc60dd2b67f24d30657ed79914faf3af2_32122_100x100_fill_q80_h2_lanczos_center.webp" alt="Logo">
-        <h3><a href="#">Marvin</a></h3>
-        <p>Feedback in educational environments in the programming domain.</p>
+       <img src="https://priscyllaifal.github.io/media/visagreement_hubf761a59d1d8a465d1cc2b861fb543aa_253560_100x100_fill_q80_h2_lanczos_center_3.webp" alt="Logo">
+        <h3><a href="#">Visagreement</a></h3>
+        <p>A visualization tool for analyzing explanation method (dis)agreement..</p>
       </div>
-    <div class="project">
-        <img src="https://priscyllaifal.github.io/media/marvin_huc60dd2b67f24d30657ed79914faf3af2_32122_100x100_fill_q80_h2_lanczos_center.webp" alt="Logo">
-        <h3><a href="#">Outline-Graph</a></h3>
-        <p>A tool to simplify Curriculum Design with Interactive Knowledge Graphs.</p>
-      </div>
-    <div class="project">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn Logo">
-        <h3><a href="#">scikit-learn</a></h3>
-        <p>scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.</p>
+      <div class="project">
+        <img src="https://priscyllaifal.github.io/media/explainalytics_hu61d5b76e28df71bd853f3fc33c646171_211404_100x100_fill_q80_h2_lanczos_center_3.webp" alt="Logo">
+        <h3><a href="#">Explainalytics</a></h3>
+        <p>A library to help assess, compare, and select feature attribution methods interactively.</p>
       </div>
     </div>
 </div>
@@ -113,6 +108,7 @@ pager: false
         <p>Feedback in educational environments in the programming domain.</p>
       </div>
       <div class="project">
+        <img src="https://priscyllaifal.github.io/media/authoring_tool_hu1075bd4a7875765d8c65a600ea3bc7e4_30154_100x100_fill_q80_h2_lanczos_center_2.webp" alt="Logo">
         <h3><a href="#">Outline-Graph</a></h3>
         <p>A tool to simplify Curriculum Design with Interactive Knowledge Graphs.</p>
       </div>
