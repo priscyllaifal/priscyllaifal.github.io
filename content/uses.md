@@ -1,6 +1,6 @@
 ---
 title: Uses
-date: 2023-10-24
+date: 2024-10-24
 pager: false
 ---
 
@@ -10,13 +10,13 @@ Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's 
 
 I often get asked about what software or hardware I use, so this page will serve as a living document and a place to point curious readers to when I get asked.
 
-## Editor + Terminal + we
+## Editor + Terminal + 25
 
 - [Visual Studio Code](https://code.visualstudio.com/) is my current editor
 - Chrome is my main browser
 - iTerm2 is my terminal
 
-## Desktop Apps + are
+## Desktop Apps + 25
 
 - Better Touch Tool for window management and custom keyboard shortcuts
 
@@ -65,7 +65,7 @@ I often get asked about what software or hardware I use, so this page will serve
 
     .project img {
       width: 100%;
-      height: 20%;
+      height: 25%;
       margin-bottom: 1px;
     }
 
@@ -100,26 +100,21 @@ I often get asked about what software or hardware I use, so this page will serve
     }
   </style>
 <div class="container">
-    <h1>Selected Projects</h1>
-    <p class="description">I enjoy making things. Here are a selection of projects that I have worked on over the years.</p>
     <div class="projects">
       <div class="project">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas Logo">
         <h3><a href="#">Pandas</a></h3>
         <p>Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.</p>
-        <p class="date">Oct 26, 2023</p>
       </div>
     <div class="project">
         <img src="https://priscyllaifal.github.io/media/marvin_huc60dd2b67f24d30657ed79914faf3af2_32122_100x100_fill_q80_h2_lanczos_center.webp" alt="PyTorch Logo">
-        <h3><a href="#">PyTorch</a></h3>
+        [PyTorch](https://www.priscyllasilva.com.br/)
         <p>PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.</p>
-        <p class="date">Oct 26, 2023</p>
       </div>
     <div class="project">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn Logo">
         <h3><a href="#">scikit-learn</a></h3>
         <p>scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.</p>
-        <p class="date">Oct 26, 2023</p>
       </div>
     </div>
 </div>
