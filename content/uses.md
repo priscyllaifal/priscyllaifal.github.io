@@ -59,7 +59,7 @@ I often get asked about what software or hardware I use, so this page will serve
       background-color: #fff;
       border-radius: 8px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      padding: 20px;
+      padding: 10px;
       text-align: center;
     }
 
@@ -108,7 +108,7 @@ I often get asked about what software or hardware I use, so this page will serve
       </div>
     <div class="project">
         <img src="https://priscyllaifal.github.io/media/marvin_huc60dd2b67f24d30657ed79914faf3af2_32122_100x100_fill_q80_h2_lanczos_center.webp" alt="PyTorch Logo">
-        [PyTorch](https://www.priscyllasilva.com.br/)
+        <h3><a href="#">PyTorch</a></h3>
         <p>PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.</p>
       </div>
     <div class="project">
