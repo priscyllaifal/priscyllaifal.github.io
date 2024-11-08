@@ -49,7 +49,7 @@ pager: false
 
     .project img {
       width: 100%;
-      height: 30%;
+      height: 50%;
       margin-bottom: 10px;
     }
 
