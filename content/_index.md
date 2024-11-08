@@ -47,7 +47,7 @@ sections:
       text: |-
         I’m Priscylla Silva, a Ph.D. student in Explainable Artificial Intelligence (XAI) at the University of São Paulo (Brazil), advised by <ins>[Prof. Luis Gustavo Nonato](https://scholar.google.com/citations?user=p2tLSUsAAAAJ&hl=en)</ins>. My research focuses on developing tools and techniques that improve AI interpretability, allowing for more transparent and reliable decision-making in a variety of domains.
 
-        I spent a year as a visiting scholar at the [Visualization and Data Analytics Research Center (VIDA)](https://vida.engineering.nyu.edu/) at New York University (NYU), where I worked under the guidance of [Prof. Claudio Silva](https://ctsilva.github.io/).
+        I spent a year as a visiting scholar at the <ins>[Visualization and Data Analytics Research Center (VIDA)](https://vida.engineering.nyu.edu/)</ins> at New York University (NYU), where I worked under the guidance of <ins>[Prof. Claudio Silva](https://ctsilva.github.io/)</ins>.
 
         My research journey began with a strong foundation in Artificial Intelligence in Education during my Master’s degree at the Federal University of Campina Grande (Brazil). Under the mentorship of Prof. Joseana Macêdo Fechine and Prof. Evandro de Barros Costa, I developed an Intelligent Tutoring System with automatic feedback designed to support students in introductory computer science (CS1) courses.
 
